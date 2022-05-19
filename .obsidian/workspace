@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "627900d5edb9a67d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa96f9e7aa3a21c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test file.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce381c33a6ac7a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "4674d51239397e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6893dc8f99421ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff01004a667d8546",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d535513ffec82dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "231d282dfa58be04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a32cef9e42edaa7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test file.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7b6939dab5c7f1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1740af835d45a355",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ffa96f9e7aa3a21c",
+  "lastOpenFiles": [
+    "test file.md",
+    "Pasted image 20220519224553.png"
+  ]
+}
